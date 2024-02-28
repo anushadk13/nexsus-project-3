@@ -13,4 +13,7 @@ Requirements
 Basic ReactJs knowledge
 Basic HTML, CSS knowledge
 
+<img width="1440" alt="Screenshot 2024-02-28 at 11 08 07 PM" src="https://github.com/anushadk13/nexsus-project-3/assets/122234698/6833c512-cf77-40fe-890f-3527f4b961eb">
+
+
 live demo: https://react-chat-app-kohl.vercel.app/app
